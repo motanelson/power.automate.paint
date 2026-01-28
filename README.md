@@ -1,2 +1,2 @@
-# game.builder.land.binary
-binary files builder, build a level.dat file random values
+
+binary bitmap files builder, build a level.dat file random values
